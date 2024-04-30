@@ -1,0 +1,21 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+h2 {
+  text-align: center;
+  color: chocolate;
+  background-color: rgb(6, 94, 129);
+  height: 80px;
+
+}
+
+p {
+  color: crimson;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(180, 225, 243);
+}

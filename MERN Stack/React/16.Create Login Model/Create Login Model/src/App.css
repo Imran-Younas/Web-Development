@@ -1,0 +1,40 @@
+.modelOverLay {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: none;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.ModelDiv {
+  width: 320px;
+  position: fixed;
+  height: 320px;
+  left: 50%;
+  top: -500%;
+  transition: 0.3s;
+  transform: translate(-50%, -50%);
+  background-color: white;
+
+}
+
+.en {
+  position: fixed;
+  right: 10px;
+  top: 100px;
+  transform: rotate(90deg);
+}
+
+
+
+.modelshow {
+  display: block;
+}
+
+.showModelDiv {
+  top: 50%;
+}
+
+.entext {
+  text-align: center;
+}

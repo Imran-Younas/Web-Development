@@ -1,0 +1,14 @@
+VS Code Extensions
+1) Live Server
+2) Prettier
+3) Line Wrap
+
+
+Vite Commands
+npm create vite@latest
+npm run dev -- --host    // check host address of vite
+
+
+
+Bootsrap (Import Bootstrap in main.jsx)
+"bootstrap/dist/css/bootstrap.min.css"
