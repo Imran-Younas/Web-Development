@@ -1,0 +1,44 @@
+form {
+  width: 1050px;
+  margin-left: 150px;
+  margin-right: 150px;
+  display: flex;
+  gap: 20px;
+
+}
+
+form input {
+  height: 40px;
+  flex-basis: 80%;
+}
+
+form button {
+  flex-basis: 20%;
+}
+
+.outerdiv {
+  width: 1050px;
+  margin-top: 15px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.outerdiv ul {
+  margin: 0%;
+  padding: 0%;
+  list-style: none;
+}
+
+.outerdiv li {
+  color: white;
+  padding: 10px;
+  position: relative;
+  font-size: 25px;
+  background-color: black;
+}
+
+.outerdiv span {
+  position: absolute;
+  right: 20px;
+  cursor: pointer;
+}

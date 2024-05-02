@@ -1,0 +1,10 @@
+.text {
+  text-align: center;
+  background-color: rgb(136, 238, 77);
+}
+
+.QA {
+  background-color: black;
+  color: white;
+  margin: 20px;
+}
