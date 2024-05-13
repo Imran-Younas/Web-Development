@@ -1,0 +1,28 @@
+.Title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.btn-list ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  cursor: pointer;
+}
+
+.btn-list button:hover {
+  background-color: rgb(89, 235, 113);
+  transform: scale(1.05);
+  transition: 0.3s;
+}

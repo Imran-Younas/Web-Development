@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 130px;
+}
+
+.nav-menu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 50px;
+  font-size: 15px;
+}
+
+.nav-connect {
+  padding: 15px 30px;
+  border-radius: 50px;
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+  font-size: 17px;
+  cursor: pointer;
+  transform: 0.5s;
+
+
+}
+
+.nav-connect:hover {
+  transform: scale(1.05);
+}
